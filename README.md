@@ -1,9 +1,14 @@
 ### Hi there 👋 I am Shilpa Jordan
 I am a backend developer in the making and am currently learning the basics of Github.
 ### About me in detail
-- Shilpa Jordan, 31 year old
-
-- My favourite colour is <span style='color: red;'>Mustard yellow</span> 
+- Shilpa Jordan, 31 year old currently living in Stuttgart, Germany
+- My favourite colour is Mustard yellow
+- I speak Malayalam (mother tongue), English, German, Hindi, Tamil, beginner level Spanish and few Korean words
+### Restaurant Recommendations in Stuttgart
+- QQ Sushi
+- Troll
+- Shabu Shabu
+- Ganesha
 ### Hobbies
 In my spare time I like to:
 - Read novels, comics
