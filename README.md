@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Shilpa Jordan
-I am a backend developer in the making and am currently learning the basics of Github.
+I am a Backend Python developer in the making and am currently learning the basics of Github.
 ### About me in detail
 - Shilpa Jordan, 31 year old currently living in Stuttgart, Germany
 - My favourite colour is Mustard yellow
