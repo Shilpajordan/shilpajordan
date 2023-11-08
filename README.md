@@ -14,6 +14,10 @@ I am currently attending Python Backend Programming Bootcamp with DCI.
 - Workshop in advnaced Excel - The Strategist (30/06/2015 – 29/07/2015)
 -  Master in business Administration - Fisat Business School (14/06/2014 – 05/08/2016)
 -  Bachelors in Civil Engineering - Musaliar College of Engineering and Technology (31/07/2009 – 05/06/2013)
+### Language Skills
+- German B2
+- English C2
+- Hindi B2
 ### Hobbies
 - Read novels, comics
 - Listen to podcasts (crime, news ,etc)
