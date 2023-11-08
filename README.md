@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Shilpa Jordan
-I am currently attending Python Backend Programming Bootcamp with DCI.
+I am currently attending Python Backend Programming Bootcamp with DCI and looking for exciting opportunities to step into the worls of programming :)
 ### About me in detail
 - Shilpa Jordan, 31 year old currently living in Stuttgart, Germany
 - I am an Indian citizen.
